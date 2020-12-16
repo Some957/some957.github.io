@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "kahvi-366ce"
+  },
+  "targets": {
+    "kahvi-366ce": {
+      "hosting": {
+        "kahvila": [
+          "kahvi-366ce"
+        ]
+      }
+    }
+  }
+}
